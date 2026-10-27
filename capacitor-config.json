@@ -1,0 +1,8 @@
+{
+  "appId": "com.yadbarg.app",
+  "appName": "یادبرگ",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#EDF1EF"
+  }
+}
